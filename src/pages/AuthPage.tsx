@@ -9,7 +9,7 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useToast } from '@/hooks/use-toast';
-import { ColorPicker, Eye, EyeOff, Info } from 'lucide-react';
+import { Palette, Eye, EyeOff, Info } from 'lucide-react';
 import {
   Select,
   SelectContent,
@@ -408,7 +408,7 @@ const AuthPage: React.FC = () => {
           
           <div className="mt-6 text-center">
             <div className="flex items-center justify-center space-x-2">
-              <ColorPicker className="h-5 w-5 text-muted-foreground" />
+              <Palette className="h-5 w-5 text-muted-foreground" />
               <p className="text-sm text-muted-foreground">
                 Your birth date and favorite color will be used to create a secure access code.
               </p>
