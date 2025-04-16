@@ -15,7 +15,7 @@ const competitions = [
     location: 'Tashkent Equestrian Center',
     categories: ['Dressage', 'Show Jumping', 'Eventing'],
     stallsAvailable: 24,
-    image: 'https://images.unsplash.com/photo-1508343919546-4a5d6c83ba5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+    image: 'https://olamsport.com/upload/storage/296856_original.jpg'
   },
   {
     id: 2,
