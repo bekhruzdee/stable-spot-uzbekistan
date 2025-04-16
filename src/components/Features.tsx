@@ -18,7 +18,7 @@ const features = [
   {
     name: 'Secure Access',
     description:
-      'Custom access control ensures only authorized personnel can access your horse's stall.',
+      "Custom access control ensures only authorized personnel can access your horse's stall.",
     icon: Lock,
   },
   {
